@@ -187,7 +187,7 @@ class SimuladorInteractivo:
         self.fig.canvas.draw_idle()
 
 
-# --- INTERFAZ GRÁFICA GIGANTE A PANTALLA COMPLETA ---
+
 class AppMenuGUI:
     def __init__(self, root):
         self.root = root
